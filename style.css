@@ -1,0 +1,46 @@
+.container{
+  border-color: grey;
+  border-width: 1px;
+  border-style: solid;
+}
+
+.cuadro1{
+  margin-top: 1rem;
+  text-align: center;
+  color: white;
+  background-color: black;
+  padding: 25px;
+  border-color: grey;
+  border-width: 2px;
+  border-style: solid;
+}
+
+.cuadro2{
+  text-align: center;
+  border-color: grey;
+  border-width: 1px;
+  border-style: solid;
+  margin-top: 1rem;
+}
+
+.cuadro4{
+  text-align: center;
+  border-color: grey;
+  border-width: 1px;
+  border-style: solid;
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+  background-color: grey;
+}
+
+
+.cuadro3{
+  text-align: center;
+  font-size: 10px;
+  border-color: grey;
+  border-width: 1px;
+  border-style: solid;
+  margin-top: 1rem;
+  background-color: grey;
+    margin-bottom: 1rem;
+}
